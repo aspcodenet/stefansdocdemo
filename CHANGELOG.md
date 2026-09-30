@@ -1,7 +1,7 @@
 # Ändringslogg för Säkerhetsdokumentation  
 
 
-## [1.0.0] - LOKAL ÄNDRING  
-* Lade till baslinje för SSH-härdning.  
+## [1.0.0] - FJÄRRÄNDRING FRÅN GITHUB  
+* Uppdaterat ändringsloggen via webben.  
 
 
